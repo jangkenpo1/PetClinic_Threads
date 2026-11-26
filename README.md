@@ -25,4 +25,8 @@ Aplikasi Java Swing sederhana untuk mencatat data pasien klinik hewan (CRUD) ke 
 ![Proses Saving](screenshots/saving.png)
 
 ### 2. Hasil CRUD pada Tabel
+![Hasil CRUD](screenshots/Data.png)
+
+
+### 2. Hasil CRUD pada Database
 ![Hasil CRUD](screenshots/crud_result.png)
